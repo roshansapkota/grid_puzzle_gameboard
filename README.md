@@ -2,7 +2,7 @@
 
 The result should look like this:
 
-The result should look like this:
+The result should be:
     Row:  1 , Col:  4
     Row:  2 , Col:  1
     Row:  3 , Col:  7
